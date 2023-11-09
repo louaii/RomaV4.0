@@ -1,0 +1,5 @@
+#The RomaV4.py is the main
+#the header to get the headers if there is connection or not
+!Check the no connection process
+#The dependencies check to download the libraries
+#The check local runs to get the all info needed about the running machine
